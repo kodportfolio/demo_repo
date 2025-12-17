@@ -1,5 +1,6 @@
-This is my first file - First line updated
 
+This is my first file - First line updated
+This is my first file - updated by branch
 updated
 
 updated in branch b1 
